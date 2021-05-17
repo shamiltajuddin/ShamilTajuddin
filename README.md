@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋! I'm Shamil Tajuddin!
+
+I am a data analyst from Chicago, Illinois passionate about using statistical modeling and data visualization to simplify challenging problems. Some of my hobbies include coding, basketball, and golf. 
+
+- Feel free to reach out to me on [LinkedIn] (https://www.linkedin.com/in/shamil-tajuddin-474250141/)
+
+- Always open to reading new books! If you have any recommendations, shoot me your recommendations on [GoodReads] (https://www.goodreads.com/user/show/66160374-shamil-tajuddin)!
 
 <!--
 **shamiltajuddin/ShamilTajuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,6 +2,8 @@
   <h1>Hi there 👋! I'm Shamil Tajuddin!</h1>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamil-tajuddin-474250141/)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shamiltajuddin)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stajuddin23/?hl=en)
 
 <p align="left">
   I am a data analyst from Chicago, Illinois passionate about using statistical modeling and data visualization to simplify challenging problems. Some of my hobbies include coding, basketball, and golf.

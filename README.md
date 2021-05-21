@@ -1,5 +1,6 @@
+<h1><h1 align="center">Hi there🤚🏽️ I'm Shamil Tajuddin!</h1>
 
-  <h1>Hi there! I'm Shamil Tajuddin!</h1>
+<h3>ABOUT ME</h3>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamil-tajuddin-474250141/)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shamiltajuddin)
@@ -15,7 +16,7 @@
 
 - Always open to reading new books! If you have any recommendations, shoot me your recommendations on [GoodReads](https://www.goodreads.com/user/show/66160374-shamil-tajuddin)
 
-<h2>TECHNOLOGIES</h2>
+<h3>TECHNOLOGIES</h3>
 
 <img alt="Python" src="https://img.shields.io/badge/python-teal.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="R" src="https://img.shields.io/badge/r-teal.svg?style=for-the-badge&logo=r&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-teal.svg?style=for-the-badge&logo=javascript&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-teal.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="Markdown" src="https://img.shields.io/badge/markdown-teal.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
 

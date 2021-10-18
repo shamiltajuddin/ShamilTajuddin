@@ -9,7 +9,7 @@
 <p align="left">
   I am a data analyst from Chicago, Illinois passionate about using statistical modeling and data visualization to simplify challenging problems. Some of my hobbies include coding, basketball, and golf.
   </p>
-  
+- Here's a look at my interactive resume (https://public.tableau.com/app/profile/shamil.tajuddin/viz/ShamilsInteractiveResume/Dashboard1?publish=yes)
 
 - Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/shamil-tajuddin-474250141/)
   </p>

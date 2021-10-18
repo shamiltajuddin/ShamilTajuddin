@@ -12,7 +12,8 @@
 
 - Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/shamil-tajuddin-474250141/)
   </p>
-  - Here's a look at my interactive resume [Tableau](https://public.tableau.com/app/profile/shamil.tajuddin/viz/ShamilsInteractiveResume/Dashboard1?publish=yes)
+
+- Here's a look at my interactive resume on [Tableau](https://public.tableau.com/app/profile/shamil.tajuddin/viz/ShamilsInteractiveResume/Dashboard1?publish=yes)
 
 - Always open to reading new books! If you have any recommendations, shoot me your recommendations on [GoodReads](https://www.goodreads.com/user/show/66160374-shamil-tajuddin)
 

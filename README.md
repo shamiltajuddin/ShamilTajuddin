@@ -26,4 +26,3 @@ Outside of work, I’m into coding, basketball, golf, and always on the lookout 
 
 - **Languages**: Python, R, SQL, JavaScript  
 - **Tools**: Git, Markdown, Databricks, SPSS, Jupyter, VS Code, Excel  
-- **Skills**: Data Wrangling, Visualization, Statistical Modeling, A/B Testing, Dashboarding
